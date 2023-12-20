@@ -1,0 +1,29 @@
+.link {
+    color: rgb(203, 12, 12);
+    text-decoration: underline;
+}
+.link:hover{
+    color: red;
+    text-decoration: none;
+}
+.logo{
+    width:10% ;
+    margin-left: 50% ;
+    text-align: center; 
+}
+
+.interface{
+    color: rgb(173, 173, 216);
+}
+.font{
+    font-family: 'Nerko One', cursive;
+    color: red;
+    font-size: 200%;
+}
+.body3{margin: 0;
+    padding: 0;
+    color:black;
+    background-color:rgb(251, 250, 244);
+    background-image:url(asset/home/jean_michel_basqiat.jpg);
+    margin:0;
+}
